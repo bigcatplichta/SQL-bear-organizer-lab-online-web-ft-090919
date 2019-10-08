@@ -5,5 +5,5 @@ age INTEGER,
 gender TEXT,
 color TEXT,
 temerament TEXT,
-alive BOOLEAN,
+alive BOOLEAN
 );
